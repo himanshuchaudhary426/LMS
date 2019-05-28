@@ -1,0 +1,21 @@
+#img-small{
+	border:2px solid grey;
+	box-shadow: 0px 3px 3px grey;
+	max-width: 100%;
+}
+
+p{
+	font-family: 'Crimson Text', serif;
+	font-size: 20px;
+}
+h4{
+	font-family: 'Lobster', cursive;
+}
+.container-color{
+	background-color:#d5dbe5;
+	box-shadow: 0px 3px 3px grey;
+}
+#row-padding{
+	padding-left:23px;
+	padding-right: 23px;
+}
